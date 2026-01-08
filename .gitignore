@@ -1,0 +1,21 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model & cache files
+.cache/
+torch_cache/
+huggingface/
+whisper/
+
+# Inputs & outputs
+inputs/
+outputs/
+
+# OS files
+Thumbs.db
+.DS_Store
